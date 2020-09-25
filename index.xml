@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gween Tea</title>
-    <link>samedhg.github.io/</link>
+    <link>https://samedhg.github.io/</link>
     <description>Recent content on Gween Tea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Sep 2020 16:55:21 -0400</lastBuildDate>
     
-	<atom:link href="samedhg.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedhg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post0</title>
-      <link>samedhg.github.io/posts/post0/</link>
+      <link>https://samedhg.github.io/posts/post0/</link>
       <pubDate>Thu, 24 Sep 2020 16:55:21 -0400</pubDate>
       
-      <guid>samedhg.github.io/posts/post0/</guid>
+      <guid>https://samedhg.github.io/posts/post0/</guid>
       <description>Here is my cool md post
 fun stuff</description>
     </item>
