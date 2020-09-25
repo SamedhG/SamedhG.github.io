@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Gween Tea</title>
-    <link>https://samedhg.github.io/posts/</link>
-    <description>Recent content in Posts on Gween Tea</description>
+    <title>Posts on Sam Gupta</title>
+    <link>http://samedhg.github.io/posts/</link>
+    <description>Recent content in Posts on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Sep 2020 16:55:21 -0400</lastBuildDate>
     
-	<atom:link href="https://samedhg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samedhg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post0</title>
-      <link>https://samedhg.github.io/posts/post0/</link>
+      <link>http://samedhg.github.io/posts/post0/</link>
       <pubDate>Thu, 24 Sep 2020 16:55:21 -0400</pubDate>
       
-      <guid>https://samedhg.github.io/posts/post0/</guid>
+      <guid>http://samedhg.github.io/posts/post0/</guid>
       <description>Here is my cool md post
 fun stuff</description>
     </item>

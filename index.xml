@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gween Tea</title>
-    <link>https://samedhg.github.io/</link>
-    <description>Recent content on Gween Tea</description>
+    <title>Sam Gupta</title>
+    <link>http://samedhg.github.io/</link>
+    <description>Recent content on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Sep 2020 16:55:21 -0400</lastBuildDate>
     
-	<atom:link href="https://samedhg.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samedhg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post0</title>
-      <link>https://samedhg.github.io/posts/post0/</link>
+      <link>http://samedhg.github.io/posts/post0/</link>
       <pubDate>Thu, 24 Sep 2020 16:55:21 -0400</pubDate>
       
-      <guid>https://samedhg.github.io/posts/post0/</guid>
+      <guid>http://samedhg.github.io/posts/post0/</guid>
       <description>Here is my cool md post
 fun stuff</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://samedhg.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://samedhg.github.io/about/</guid>
+      <description>About Me My name is Samedh Gupta, though I usually go by Sam. I&amp;rsquo;m a software developer currently living in Boston, Massachusets.
+I started programming when I was 12, and I have been learning new things everyday since. I have been fortunate enough to have the opportunity to explore a wide range of technologies to build high performant software for different projects.
+Lately, I have been really enjoying programming with the Rust programming languages and many of my recent projects have been built using Rust.</description>
     </item>
     
   </channel>

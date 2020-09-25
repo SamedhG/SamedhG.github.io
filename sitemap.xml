@@ -3,26 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://samedhg.github.io/</loc>
+    <loc>http://samedhg.github.io/posts/post0/</loc>
     <lastmod>2020-09-24T16:55:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://samedhg.github.io/posts/post0/</loc>
+    <loc>http://samedhg.github.io/posts/</loc>
     <lastmod>2020-09-24T16:55:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://samedhg.github.io/posts/</loc>
+    <loc>http://samedhg.github.io/</loc>
     <lastmod>2020-09-24T16:55:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://samedhg.github.io/categories/</loc>
+    <loc>http://samedhg.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://samedhg.github.io/tags/</loc>
+    <loc>http://samedhg.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://samedhg.github.io/tags/</loc>
   </url>
   
 </urlset>
