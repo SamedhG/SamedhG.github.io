@@ -6,6 +6,7 @@
     <description>Recent content on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://samedhg.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -89,6 +90,16 @@
       
       <guid>https://samedhg.github.io/project/traveller-lang/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Reminiscing about my first project</title>
+      <link>https://samedhg.github.io/post/reminiscing/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/post/reminiscing/</guid>
+      <description>Disclaimer: A lot of things I did as a kid were dumb. This article is me just musing at the decisions I made as a 14 year old.
+The very first project that I would consider a &amp;ldquo;real project&amp;rdquo; I did was a website to manage a database for a hypothetical library. I had spent the last few months learning SQL and php and this was my attempt at putting together that knowledge.</description>
     </item>
     
     <item>

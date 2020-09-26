@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roots on Sam Gupta</title>
+    <link>https://samedhg.github.io/tags/roots/</link>
+    <description>Recent content in Roots on Sam Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://samedhg.github.io/tags/roots/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reminiscing about my first project</title>
+      <link>https://samedhg.github.io/post/reminiscing/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/post/reminiscing/</guid>
+      <description>Disclaimer: A lot of things I did as a kid were dumb. This article is me just musing at the decisions I made as a 14 year old.
+The very first project that I would consider a &amp;ldquo;real project&amp;rdquo; I did was a website to manage a database for a hypothetical library. I had spent the last few months learning SQL and php and this was my attempt at putting together that knowledge.</description>
+    </item>
+    
+  </channel>
+</rss>
