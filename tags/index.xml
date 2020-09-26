@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sam Gupta</title>
-    <link>http://samedhg.github.io/tags/</link>
+    <link>https://samedhg.github.io/tags/</link>
     <description>Recent content in Tags on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://samedhg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedhg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Analysis</title>
-      <link>http://samedhg.github.io/tags/data-analysis/</link>
+      <link>https://samedhg.github.io/tags/data-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://samedhg.github.io/tags/data-analysis/</guid>
+      <guid>https://samedhg.github.io/tags/data-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>File Parsing</title>
-      <link>http://samedhg.github.io/tags/file-parsing/</link>
+      <link>https://samedhg.github.io/tags/file-parsing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://samedhg.github.io/tags/file-parsing/</guid>
+      <guid>https://samedhg.github.io/tags/file-parsing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>http://samedhg.github.io/tags/machine-learning/</link>
+      <link>https://samedhg.github.io/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://samedhg.github.io/tags/machine-learning/</guid>
+      <guid>https://samedhg.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random Forest</title>
-      <link>http://samedhg.github.io/tags/random-forest/</link>
+      <link>https://samedhg.github.io/tags/random-forest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://samedhg.github.io/tags/random-forest/</guid>
+      <guid>https://samedhg.github.io/tags/random-forest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rust</title>
-      <link>http://samedhg.github.io/tags/rust/</link>
+      <link>https://samedhg.github.io/tags/rust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://samedhg.github.io/tags/rust/</guid>
+      <guid>https://samedhg.github.io/tags/rust/</guid>
       <description></description>
     </item>
     
