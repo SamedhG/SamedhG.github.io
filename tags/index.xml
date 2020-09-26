@@ -38,6 +38,15 @@
     </item>
     
     <item>
+      <title>DSL</title>
+      <link>https://samedhg.github.io/tags/dsl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/dsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>File System</title>
       <link>https://samedhg.github.io/tags/file-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -47,11 +56,38 @@
     </item>
     
     <item>
+      <title>Graphs</title>
+      <link>https://samedhg.github.io/tags/graphs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/graphs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>https://samedhg.github.io/tags/image-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/image-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interpreter</title>
       <link>https://samedhg.github.io/tags/interpreter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://samedhg.github.io/tags/interpreter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://samedhg.github.io/tags/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/java/</guid>
       <description></description>
     </item>
     
@@ -83,6 +119,24 @@
     </item>
     
     <item>
+      <title>MVC</title>
+      <link>https://samedhg.github.io/tags/mvc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/mvc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Oriented Programming</title>
+      <link>https://samedhg.github.io/tags/object-oriented-programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/object-oriented-programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Parsing</title>
       <link>https://samedhg.github.io/tags/parsing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -97,6 +151,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://samedhg.github.io/tags/programming-languages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Racket</title>
+      <link>https://samedhg.github.io/tags/racket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/racket/</guid>
       <description></description>
     </item>
     
@@ -128,20 +191,20 @@
     </item>
     
     <item>
-      <title>System</title>
-      <link>https://samedhg.github.io/tags/system/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samedhg.github.io/tags/system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Systems</title>
       <link>https://samedhg.github.io/tags/systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://samedhg.github.io/tags/systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Driven Design</title>
+      <link>https://samedhg.github.io/tags/test-driven-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/test-driven-design/</guid>
       <description></description>
     </item>
     

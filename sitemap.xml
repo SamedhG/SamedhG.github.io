@@ -27,6 +27,18 @@
   </url>
   
   <url>
+    <loc>https://samedhg.github.io/project/animator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/project/seam-carving/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/project/traveller-lang/</loc>
+  </url>
+  
+  <url>
     <loc>https://samedhg.github.io/about/</loc>
   </url>
   
@@ -47,11 +59,27 @@
   </url>
   
   <url>
+    <loc>https://samedhg.github.io/tags/dsl/</loc>
+  </url>
+  
+  <url>
     <loc>https://samedhg.github.io/tags/file-system/</loc>
   </url>
   
   <url>
+    <loc>https://samedhg.github.io/tags/graphs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/image-processing/</loc>
+  </url>
+  
+  <url>
     <loc>https://samedhg.github.io/tags/interpreter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/java/</loc>
   </url>
   
   <url>
@@ -67,6 +95,14 @@
   </url>
   
   <url>
+    <loc>https://samedhg.github.io/tags/mvc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/object-oriented-programming/</loc>
+  </url>
+  
+  <url>
     <loc>https://samedhg.github.io/tags/parsing/</loc>
   </url>
   
@@ -76,6 +112,10 @@
   
   <url>
     <loc>https://samedhg.github.io/project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/racket/</loc>
   </url>
   
   <url>
@@ -95,15 +135,15 @@
   </url>
   
   <url>
-    <loc>https://samedhg.github.io/tags/system/</loc>
-  </url>
-  
-  <url>
     <loc>https://samedhg.github.io/tags/systems/</loc>
   </url>
   
   <url>
     <loc>https://samedhg.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/test-driven-design/</loc>
   </url>
   
 </urlset>
