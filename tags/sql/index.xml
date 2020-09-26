@@ -18,7 +18,7 @@
       
       <guid>https://samedh.me/post/reminiscing/</guid>
       <description>Disclaimer: A lot of things I did as a kid were dumb. This article is me just musing at the decisions I made as a 14 year old.
-The very first project that I would consider a &amp;ldquo;real project&amp;rdquo; I did was a website to manage a database for a hypothetical library. I had spent the last few months learning SQL and php and this was my attempt at putting together that knowledge.</description>
+The very first project that I would consider a &amp;ldquo;real project&amp;rdquo; I did was a website to manage a database for a hypothetical library. It was a basic GUI to manage a relational database. It had forms to add entries and tables to view the tables and certain common joins.</description>
     </item>
     
   </channel>
