@@ -2,246 +2,246 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sam Gupta</title>
-    <link>https://samedhg.github.io/tags/</link>
+    <link>https://samedh.me/tags/</link>
     <description>Recent content in Tags on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://samedhg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedh.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Php</title>
-      <link>https://samedhg.github.io/tags/php/</link>
+      <link>https://samedh.me/tags/php/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/php/</guid>
+      <guid>https://samedh.me/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Roots</title>
-      <link>https://samedhg.github.io/tags/roots/</link>
+      <link>https://samedh.me/tags/roots/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/roots/</guid>
+      <guid>https://samedh.me/tags/roots/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>https://samedhg.github.io/tags/sql/</link>
+      <link>https://samedh.me/tags/sql/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/sql/</guid>
+      <guid>https://samedh.me/tags/sql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web development</title>
-      <link>https://samedhg.github.io/tags/web-development/</link>
+      <link>https://samedh.me/tags/web-development/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/web-development/</guid>
+      <guid>https://samedh.me/tags/web-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>https://samedhg.github.io/tags/c/</link>
+      <link>https://samedh.me/tags/c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/c/</guid>
+      <guid>https://samedh.me/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CSV</title>
-      <link>https://samedhg.github.io/tags/csv/</link>
+      <link>https://samedh.me/tags/csv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/csv/</guid>
+      <guid>https://samedh.me/tags/csv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Analysis</title>
-      <link>https://samedhg.github.io/tags/data-analysis/</link>
+      <link>https://samedh.me/tags/data-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/data-analysis/</guid>
+      <guid>https://samedh.me/tags/data-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DSL</title>
-      <link>https://samedhg.github.io/tags/dsl/</link>
+      <link>https://samedh.me/tags/dsl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/dsl/</guid>
+      <guid>https://samedh.me/tags/dsl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>File System</title>
-      <link>https://samedhg.github.io/tags/file-system/</link>
+      <link>https://samedh.me/tags/file-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/file-system/</guid>
+      <guid>https://samedh.me/tags/file-system/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graphs</title>
-      <link>https://samedhg.github.io/tags/graphs/</link>
+      <link>https://samedh.me/tags/graphs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/graphs/</guid>
+      <guid>https://samedh.me/tags/graphs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image Processing</title>
-      <link>https://samedhg.github.io/tags/image-processing/</link>
+      <link>https://samedh.me/tags/image-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/image-processing/</guid>
+      <guid>https://samedh.me/tags/image-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpreter</title>
-      <link>https://samedhg.github.io/tags/interpreter/</link>
+      <link>https://samedh.me/tags/interpreter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/interpreter/</guid>
+      <guid>https://samedh.me/tags/interpreter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://samedhg.github.io/tags/java/</link>
+      <link>https://samedh.me/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/java/</guid>
+      <guid>https://samedh.me/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>https://samedhg.github.io/tags/machine-learning/</link>
+      <link>https://samedh.me/tags/machine-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/machine-learning/</guid>
+      <guid>https://samedh.me/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Memory Allocator</title>
-      <link>https://samedhg.github.io/tags/memory-allocator/</link>
+      <link>https://samedh.me/tags/memory-allocator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/memory-allocator/</guid>
+      <guid>https://samedh.me/tags/memory-allocator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi Threaded</title>
-      <link>https://samedhg.github.io/tags/multi-threaded/</link>
+      <link>https://samedh.me/tags/multi-threaded/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/multi-threaded/</guid>
+      <guid>https://samedh.me/tags/multi-threaded/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MVC</title>
-      <link>https://samedhg.github.io/tags/mvc/</link>
+      <link>https://samedh.me/tags/mvc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/mvc/</guid>
+      <guid>https://samedh.me/tags/mvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Object Oriented Programming</title>
-      <link>https://samedhg.github.io/tags/object-oriented-programming/</link>
+      <link>https://samedh.me/tags/object-oriented-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/object-oriented-programming/</guid>
+      <guid>https://samedh.me/tags/object-oriented-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parsing</title>
-      <link>https://samedhg.github.io/tags/parsing/</link>
+      <link>https://samedh.me/tags/parsing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/parsing/</guid>
+      <guid>https://samedh.me/tags/parsing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming Languages</title>
-      <link>https://samedhg.github.io/tags/programming-languages/</link>
+      <link>https://samedh.me/tags/programming-languages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/programming-languages/</guid>
+      <guid>https://samedh.me/tags/programming-languages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Racket</title>
-      <link>https://samedhg.github.io/tags/racket/</link>
+      <link>https://samedh.me/tags/racket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/racket/</guid>
+      <guid>https://samedh.me/tags/racket/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random Forest</title>
-      <link>https://samedhg.github.io/tags/random-forest/</link>
+      <link>https://samedh.me/tags/random-forest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/random-forest/</guid>
+      <guid>https://samedh.me/tags/random-forest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rust</title>
-      <link>https://samedhg.github.io/tags/rust/</link>
+      <link>https://samedh.me/tags/rust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/rust/</guid>
+      <guid>https://samedh.me/tags/rust/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shell</title>
-      <link>https://samedhg.github.io/tags/shell/</link>
+      <link>https://samedh.me/tags/shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/shell/</guid>
+      <guid>https://samedh.me/tags/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systems</title>
-      <link>https://samedhg.github.io/tags/systems/</link>
+      <link>https://samedh.me/tags/systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/systems/</guid>
+      <guid>https://samedh.me/tags/systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test Driven Design</title>
-      <link>https://samedhg.github.io/tags/test-driven-design/</link>
+      <link>https://samedh.me/tags/test-driven-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/test-driven-design/</guid>
+      <guid>https://samedh.me/tags/test-driven-design/</guid>
       <description></description>
     </item>
     

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Racket on Sam Gupta</title>
-    <link>https://samedhg.github.io/tags/racket/</link>
+    <link>https://samedh.me/tags/racket/</link>
     <description>Recent content in Racket on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://samedhg.github.io/tags/racket/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedh.me/tags/racket/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Traveller Lang</title>
-      <link>https://samedhg.github.io/project/traveller-lang/</link>
+      <link>https://samedh.me/project/traveller-lang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/traveller-lang/</guid>
+      <guid>https://samedh.me/project/traveller-lang/</guid>
       <description></description>
     </item>
     

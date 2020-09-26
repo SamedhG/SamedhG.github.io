@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam Gupta</title>
-    <link>https://samedhg.github.io/</link>
+    <link>https://samedh.me/</link>
     <description>Recent content on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://samedhg.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedh.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LiquidML</title>
-      <link>https://samedhg.github.io/project/liquidml/</link>
+      <link>https://samedh.me/project/liquidml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/liquidml/</guid>
+      <guid>https://samedh.me/project/liquidml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sorer</title>
-      <link>https://samedhg.github.io/project/sorer/</link>
+      <link>https://samedh.me/project/sorer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/sorer/</guid>
+      <guid>https://samedh.me/project/sorer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming Language</title>
-      <link>https://samedhg.github.io/project/language/</link>
+      <link>https://samedh.me/project/language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/language/</guid>
+      <guid>https://samedh.me/project/language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GShell</title>
-      <link>https://samedhg.github.io/project/gshell/</link>
+      <link>https://samedh.me/project/gshell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/gshell/</guid>
+      <guid>https://samedh.me/project/gshell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NUFS</title>
-      <link>https://samedhg.github.io/project/nufs/</link>
+      <link>https://samedh.me/project/nufs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/nufs/</guid>
+      <guid>https://samedh.me/project/nufs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HMalloc</title>
-      <link>https://samedhg.github.io/project/hmalloc/</link>
+      <link>https://samedh.me/project/hmalloc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/hmalloc/</guid>
+      <guid>https://samedh.me/project/hmalloc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Excellence Animator</title>
-      <link>https://samedhg.github.io/project/animator/</link>
+      <link>https://samedh.me/project/animator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/animator/</guid>
+      <guid>https://samedh.me/project/animator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seam Carving</title>
-      <link>https://samedhg.github.io/project/seam-carving/</link>
+      <link>https://samedh.me/project/seam-carving/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/seam-carving/</guid>
+      <guid>https://samedh.me/project/seam-carving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traveller Lang</title>
-      <link>https://samedhg.github.io/project/traveller-lang/</link>
+      <link>https://samedh.me/project/traveller-lang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/traveller-lang/</guid>
+      <guid>https://samedh.me/project/traveller-lang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reminiscing about my first project</title>
-      <link>https://samedhg.github.io/post/reminiscing/</link>
+      <link>https://samedh.me/post/reminiscing/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/post/reminiscing/</guid>
+      <guid>https://samedh.me/post/reminiscing/</guid>
       <description>Disclaimer: A lot of things I did as a kid were dumb. This article is me just musing at the decisions I made as a 14 year old.
 The very first project that I would consider a &amp;ldquo;real project&amp;rdquo; I did was a website to manage a database for a hypothetical library. I had spent the last few months learning SQL and php and this was my attempt at putting together that knowledge.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://samedhg.github.io/about/</link>
+      <link>https://samedh.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/about/</guid>
+      <guid>https://samedh.me/about/</guid>
       <description>About Me My name is Samedh Gupta, though I usually go by Sam. I&amp;rsquo;m a software developer currently living in Boston, Massachusets.
 I started programming when I was 12, and I have been learning new things everyday since. I have been fortunate enough to have the opportunity to explore a wide range of technologies to build high performant software for different projects.
 Lately, I have been really enjoying programming with the Rust programming languages and many of my recent projects have been built using Rust.</description>

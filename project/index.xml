@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sam Gupta</title>
-    <link>https://samedhg.github.io/project/</link>
+    <link>https://samedh.me/project/</link>
     <description>Recent content in Projects on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://samedhg.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedh.me/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LiquidML</title>
-      <link>https://samedhg.github.io/project/liquidml/</link>
+      <link>https://samedh.me/project/liquidml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/liquidml/</guid>
+      <guid>https://samedh.me/project/liquidml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sorer</title>
-      <link>https://samedhg.github.io/project/sorer/</link>
+      <link>https://samedh.me/project/sorer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/sorer/</guid>
+      <guid>https://samedh.me/project/sorer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming Language</title>
-      <link>https://samedhg.github.io/project/language/</link>
+      <link>https://samedh.me/project/language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/language/</guid>
+      <guid>https://samedh.me/project/language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GShell</title>
-      <link>https://samedhg.github.io/project/gshell/</link>
+      <link>https://samedh.me/project/gshell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/gshell/</guid>
+      <guid>https://samedh.me/project/gshell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NUFS</title>
-      <link>https://samedhg.github.io/project/nufs/</link>
+      <link>https://samedh.me/project/nufs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/nufs/</guid>
+      <guid>https://samedh.me/project/nufs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HMalloc</title>
-      <link>https://samedhg.github.io/project/hmalloc/</link>
+      <link>https://samedh.me/project/hmalloc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/hmalloc/</guid>
+      <guid>https://samedh.me/project/hmalloc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Excellence Animator</title>
-      <link>https://samedhg.github.io/project/animator/</link>
+      <link>https://samedh.me/project/animator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/animator/</guid>
+      <guid>https://samedh.me/project/animator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seam Carving</title>
-      <link>https://samedhg.github.io/project/seam-carving/</link>
+      <link>https://samedh.me/project/seam-carving/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/seam-carving/</guid>
+      <guid>https://samedh.me/project/seam-carving/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Traveller Lang</title>
-      <link>https://samedhg.github.io/project/traveller-lang/</link>
+      <link>https://samedh.me/project/traveller-lang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/traveller-lang/</guid>
+      <guid>https://samedh.me/project/traveller-lang/</guid>
       <description></description>
     </item>
     

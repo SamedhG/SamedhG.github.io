@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Processing on Sam Gupta</title>
-    <link>https://samedhg.github.io/tags/image-processing/</link>
+    <link>https://samedh.me/tags/image-processing/</link>
     <description>Recent content in Image Processing on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://samedhg.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedh.me/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Seam Carving</title>
-      <link>https://samedhg.github.io/project/seam-carving/</link>
+      <link>https://samedh.me/project/seam-carving/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/seam-carving/</guid>
+      <guid>https://samedh.me/project/seam-carving/</guid>
       <description></description>
     </item>
     

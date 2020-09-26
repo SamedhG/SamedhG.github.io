@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Memory Allocator on Sam Gupta</title>
-    <link>https://samedhg.github.io/tags/memory-allocator/</link>
+    <link>https://samedh.me/tags/memory-allocator/</link>
     <description>Recent content in Memory Allocator on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://samedhg.github.io/tags/memory-allocator/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedh.me/tags/memory-allocator/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HMalloc</title>
-      <link>https://samedhg.github.io/project/hmalloc/</link>
+      <link>https://samedh.me/project/hmalloc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/hmalloc/</guid>
+      <guid>https://samedh.me/project/hmalloc/</guid>
       <description></description>
     </item>
     

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning on Sam Gupta</title>
-    <link>https://samedhg.github.io/tags/machine-learning/</link>
+    <link>https://samedh.me/tags/machine-learning/</link>
     <description>Recent content in Machine Learning on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://samedhg.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedh.me/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LiquidML</title>
-      <link>https://samedhg.github.io/project/liquidml/</link>
+      <link>https://samedh.me/project/liquidml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/liquidml/</guid>
+      <guid>https://samedh.me/project/liquidml/</guid>
       <description></description>
     </item>
     

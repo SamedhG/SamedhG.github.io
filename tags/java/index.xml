@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Sam Gupta</title>
-    <link>https://samedhg.github.io/tags/java/</link>
+    <link>https://samedh.me/tags/java/</link>
     <description>Recent content in Java on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://samedhg.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedh.me/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Excellence Animator</title>
-      <link>https://samedhg.github.io/project/animator/</link>
+      <link>https://samedh.me/project/animator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/animator/</guid>
+      <guid>https://samedh.me/project/animator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seam Carving</title>
-      <link>https://samedhg.github.io/project/seam-carving/</link>
+      <link>https://samedh.me/project/seam-carving/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/seam-carving/</guid>
+      <guid>https://samedh.me/project/seam-carving/</guid>
       <description></description>
     </item>
     

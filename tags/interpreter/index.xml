@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Interpreter on Sam Gupta</title>
-    <link>https://samedhg.github.io/tags/interpreter/</link>
+    <link>https://samedh.me/tags/interpreter/</link>
     <description>Recent content in Interpreter on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://samedhg.github.io/tags/interpreter/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedh.me/tags/interpreter/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Programming Language</title>
-      <link>https://samedhg.github.io/project/language/</link>
+      <link>https://samedh.me/project/language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/project/language/</guid>
+      <guid>https://samedh.me/project/language/</guid>
       <description></description>
     </item>
     

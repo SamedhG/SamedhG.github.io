@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Php on Sam Gupta</title>
-    <link>https://samedhg.github.io/tags/php/</link>
+    <link>https://samedh.me/tags/php/</link>
     <description>Recent content in Php on Sam Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://samedhg.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedh.me/tags/php/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reminiscing about my first project</title>
-      <link>https://samedhg.github.io/post/reminiscing/</link>
+      <link>https://samedh.me/post/reminiscing/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/post/reminiscing/</guid>
+      <guid>https://samedh.me/post/reminiscing/</guid>
       <description>Disclaimer: A lot of things I did as a kid were dumb. This article is me just musing at the decisions I made as a 14 year old.
 The very first project that I would consider a &amp;ldquo;real project&amp;rdquo; I did was a website to manage a database for a hypothetical library. I had spent the last few months learning SQL and php and this was my attempt at putting together that knowledge.</description>
     </item>
