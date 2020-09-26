@@ -3,11 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://samedhg.github.io/project/liquidml/</loc>
+  </url>
+  
+  <url>
     <loc>https://samedhg.github.io/project/sorer/</loc>
   </url>
   
   <url>
-    <loc>https://samedhg.github.io/project/liquidml/</loc>
+    <loc>https://samedhg.github.io/project/language/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/project/gshell/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/project/nufs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/project/hmalloc/</loc>
   </url>
   
   <url>
@@ -15,7 +31,15 @@
   </url>
   
   <url>
+    <loc>https://samedhg.github.io/tags/c/</loc>
+  </url>
+  
+  <url>
     <loc>https://samedhg.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/csv/</loc>
   </url>
   
   <url>
@@ -23,11 +47,31 @@
   </url>
   
   <url>
-    <loc>https://samedhg.github.io/tags/file-parsing/</loc>
+    <loc>https://samedhg.github.io/tags/file-system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/interpreter/</loc>
   </url>
   
   <url>
     <loc>https://samedhg.github.io/tags/machine-learning/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/memory-allocator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/multi-threaded/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/parsing/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/programming-languages/</loc>
   </url>
   
   <url>
@@ -44,6 +88,18 @@
   
   <url>
     <loc>https://samedhg.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/shell/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/system/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samedhg.github.io/tags/systems/</loc>
   </url>
   
   <url>

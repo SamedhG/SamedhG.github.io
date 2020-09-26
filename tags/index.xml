@@ -11,6 +11,24 @@
     
     
     <item>
+      <title>C</title>
+      <link>https://samedhg.github.io/tags/c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSV</title>
+      <link>https://samedhg.github.io/tags/csv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/csv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Analysis</title>
       <link>https://samedhg.github.io/tags/data-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,11 +38,20 @@
     </item>
     
     <item>
-      <title>File Parsing</title>
-      <link>https://samedhg.github.io/tags/file-parsing/</link>
+      <title>File System</title>
+      <link>https://samedhg.github.io/tags/file-system/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samedhg.github.io/tags/file-parsing/</guid>
+      <guid>https://samedhg.github.io/tags/file-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpreter</title>
+      <link>https://samedhg.github.io/tags/interpreter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/interpreter/</guid>
       <description></description>
     </item>
     
@@ -34,6 +61,42 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://samedhg.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Allocator</title>
+      <link>https://samedhg.github.io/tags/memory-allocator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/memory-allocator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi Threaded</title>
+      <link>https://samedhg.github.io/tags/multi-threaded/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/multi-threaded/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parsing</title>
+      <link>https://samedhg.github.io/tags/parsing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/parsing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming Languages</title>
+      <link>https://samedhg.github.io/tags/programming-languages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/programming-languages/</guid>
       <description></description>
     </item>
     
@@ -52,6 +115,33 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://samedhg.github.io/tags/rust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>https://samedhg.github.io/tags/shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System</title>
+      <link>https://samedhg.github.io/tags/system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems</title>
+      <link>https://samedhg.github.io/tags/systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedhg.github.io/tags/systems/</guid>
       <description></description>
     </item>
     
