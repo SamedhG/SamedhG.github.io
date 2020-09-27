@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Samedh Gupta</title>
-    <link>https://samedh.me/post/</link>
-    <description>Recent content in Posts on Samedh Gupta</description>
+    <title>School on Samedh Gupta</title>
+    <link>https://samedh.me/tags/school/</link>
+    <description>Recent content in School on Samedh Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://samedh.me/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samedh.me/tags/school/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://samedh.me/post/automating-your-hw/</guid>
       <description>Last weekend one of my roommates (who was taking his first class in propositional logic) asked me about truth tables. He joked about how tedious and error prone this task is and I should automate the problem. So, partly as a challenge to myself I decide to do it. About a 100 lines of rust later I was generating latex truth tables by parsing the equations from user input. But interestingly thinking back I have been automating homework for such a long time.</description>
-    </item>
-    
-    <item>
-      <title>Reminiscing about my first project</title>
-      <link>https://samedh.me/post/reminiscing/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://samedh.me/post/reminiscing/</guid>
-      <description>Disclaimer: A lot of things I did as a kid were dumb. This article is me just musing at the decisions I made as a 14 year old.
-The very first project that I would consider a &amp;ldquo;real project&amp;rdquo; I did was a website to manage a database for a hypothetical library. It was a basic GUI to manage a relational database. It had forms to add entries and tables to view the tables and certain common joins.</description>
     </item>
     
   </channel>

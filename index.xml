@@ -6,7 +6,7 @@
     <description>Recent content on Samedh Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://samedh.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -90,6 +90,15 @@
       
       <guid>https://samedh.me/project/traveller-lang/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Automating Your Homework</title>
+      <link>https://samedh.me/post/automating-your-hw/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://samedh.me/post/automating-your-hw/</guid>
+      <description>Last weekend one of my roommates (who was taking his first class in propositional logic) asked me about truth tables. He joked about how tedious and error prone this task is and I should automate the problem. So, partly as a challenge to myself I decide to do it. About a 100 lines of rust later I was generating latex truth tables by parsing the equations from user input. But interestingly thinking back I have been automating homework for such a long time.</description>
     </item>
     
     <item>
